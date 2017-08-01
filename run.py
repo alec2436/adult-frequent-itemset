@@ -7,3 +7,5 @@ print A
 
 B = np.array([4,5,6])
 print B
+
+C = np.array([7,8,9])
