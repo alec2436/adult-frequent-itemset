@@ -4,7 +4,7 @@ import scipy.misc # used for combinations
 from itertools import combinations, chain
 from IndexFromAttribute import getClassTypeIndex
 
-min_support = 15
+min_support = 8
 
 def start():
 
